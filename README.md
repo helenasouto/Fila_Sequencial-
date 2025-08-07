@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este é um projeto acadêmico desenvolvido para a disciplina de Estrutura de Dados do Centro de Informática da Universidade Federal da Paraíba (UFPB)[cite: 1, 2].
+Este é um projeto acadêmico desenvolvido para a disciplina de Estrutura de Dados do Centro de Informática da Universidade Federal da Paraíba (UFPB)
 
 O objetivo do projeto é a implementação da estrutura de dados **Fila de inteiros**, utilizando um vetor (lista em Python) como base e aplicando a **técnica de incremento circular** para a gestão de posições
 
