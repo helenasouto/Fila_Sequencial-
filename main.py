@@ -2,7 +2,7 @@
 from fila import FilaCircular
 
 def exibir_menu():
-    """Mostra as opções de interação para o usuário."""
+   
     print("\n---------- MENU - Fila Circular ----------")
     print("1. Inserir no fim da fila")
     print("2. Remover do início da fila")
@@ -73,4 +73,5 @@ def main():
 
 # Ponto de entrada do programa
 if __name__ == "__main__":
+
     main()
