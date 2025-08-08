@@ -1,5 +1,5 @@
 # Define o interpretador Python a ser usado. Use python3 ou python, conforme sua necessidade.
-PYTHON = python3
+PYTHON = py
 
 # O alvo padrão que será executado se você digitar apenas "make"
 .DEFAULT_GOAL := help
@@ -35,4 +35,5 @@ help:
 	@echo "  make run    -> Executa o programa principal (main.py)"
 	@echo "  make test   -> Inicia o programa em modo de teste interativo"
 	@echo "  make clean  -> Remove arquivos temporários do Python"
+
 	@echo "  make help   -> Mostra esta mensagem de ajuda"
